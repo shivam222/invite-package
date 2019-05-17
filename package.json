@@ -1,0 +1,15 @@
+{
+  "name": "biz2credit-shivam-bansal",
+  "version": "1.0.0",
+  "description": "package to invite closeby customers",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivam222/invite-package.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivam bansal",
+  "license": "ISC"
+}
