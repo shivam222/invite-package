@@ -2,7 +2,7 @@
   "name": "biz2credit-shivam-bansal",
   "version": "1.0.0",
   "description": "package to invite closeby customers",
-  "main": "./lib",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/shivam222/invite-package.git"
